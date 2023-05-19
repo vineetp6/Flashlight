@@ -1,7 +1,7 @@
 # Flashlight
 ![flashlight](https://user-images.githubusercontent.com/97734029/213902849-4d71cc0f-9823-4225-8b80-816a752ec605.png)
 
-This app quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit. It is a small demo app made as a part of one hour coding sprint. 
+This app quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit.
 
 ### For Android Users
 
