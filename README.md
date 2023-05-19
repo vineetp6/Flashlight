@@ -7,7 +7,7 @@ This app quickly and easily turns on the flash next to the rear camera, and keep
 
 
 
-Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one.
+Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one
 
 ### For iOS Users
 
